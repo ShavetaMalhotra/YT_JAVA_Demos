@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ef5f848-784b-4cca-b4b7-ec97b255a504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tricky_ques/DemoA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tricky_ques/DemoB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tricky_ques/DemoD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tricky_ques/DemoE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tricky_ques/MultipleClassesB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typeCasting/ExplicitTypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typeCasting/ImplicitCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variableDataTypes/DataTypesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variableDataTypes/VariablesBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YT_JAVA_Demos.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,12 +33,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\Youtube_data\Youtube_practicals\YT_JAVA_Demos\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.uniary.Increment" />
+      <module name="YT_JAVA_Demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operators.uniary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Increment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,5 +73,16 @@
       <updated>1652203115347</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
