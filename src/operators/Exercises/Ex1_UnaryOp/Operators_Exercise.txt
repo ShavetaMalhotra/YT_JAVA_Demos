@@ -1,0 +1,25 @@
+Exercise based on Unary operators:-
+-----------------------------------------
+1. what will be the value of x?
+int x=10;
+System.out.print(x++ + ++x);
+
+
+2. what will be the value of z?
+int a=10;
+int b=3;
+a++;
+++b;
+int z = a + b + c;
+System.out.print(a);
+System.out.print(b);
+System.out.print(b);
+
+
+3. what will be value of a,b and c?
+int a=5;
+int b=6;
+int c = a++ + ++a + ++b +b + ++b;
+System.out.print(a);
+System.out.print(b);
+System.out.print(c);

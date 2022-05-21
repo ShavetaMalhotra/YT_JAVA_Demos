@@ -1,0 +1,25 @@
+Exercise based on Arithmetic operators:-
+-----------------------------------------
+1. what will be the value of x?
+int x=10;
+int y = 2;
+
+System.out.print(x+y);
+System.out.print(x-y);
+System.out.print(x*y);
+System.out.print(x/y);
+System.out.print(x%y);
+
+2. what will be the value of z?
+int a=10;
+int b=3;
+int c=2;
+a++;
+--b;
+b--;
+int d = a++ - --b * c;
+System.out.print(a);
+System.out.print(b);
+System.out.print(d);
+
+
